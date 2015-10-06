@@ -4,6 +4,12 @@
   "license" : "MIT",
   "description": "npm wrapper allowing to use JSON5 instead of standard package.json",
   "author": "Maxime Poulin <mpoulin@roux.ca>",
+  "contributors": [{
+    // Inspiration taken from:
+    // https://github.com/rlidwka/yapm/tree/good-old-wrapper
+    "name": "Alex Kocharin",
+    "email": "alex@kocharin.ru",
+  }],
   "scripts": {
     "test": "node ./test/run.js",
   },
