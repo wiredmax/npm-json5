@@ -1,0 +1,37 @@
+{
+  "name": "npm-json5",
+  "version": "0.1.0",
+  "license" : "MIT",
+  "description": "npm wrapper allowing to use JSON5 instead of standard package.json",
+  "author": {
+    "name": "Maxime Poulin",
+    "email": "mpoulin@roux.ca"
+  },
+  "keywords": [
+    "package manager",
+    "modules",
+    "install",
+    "package.json5",
+    "json5",
+    "npm"
+  ],
+  "preferGlobal": true,
+  "homepage": "https://npmjs.org/doc/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wiredmax/npm-json5"
+  },
+  "bugs": {
+    "url": "http://github.com/rlidwka/npm-json5/issues"
+  },
+  "main": "./npm-json5.js",
+  "bin": {
+    "npm-json5": "./npm-json5.js"
+  },
+  "dependencies": {
+    "babel-core": "*",
+    "npm": "*",
+    "jju": "*",
+    "superagent": "*",
+  },
+}
