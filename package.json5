@@ -33,5 +33,9 @@
     "npm": "*",
     "jju": "*",
     "superagent": "*",
+    "lodash": "^3.10.1",
+  },
+  "devDependencies": {
+    "underscore": "^1.8.3",
   },
 }
