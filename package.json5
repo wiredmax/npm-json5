@@ -3,10 +3,7 @@
   "version": "0.1.0",
   "license" : "MIT",
   "description": "npm wrapper allowing to use JSON5 instead of standard package.json",
-  "author": {
-    "name": "Maxime Poulin",
-    "email": "mpoulin@roux.ca"
-  },
+  "author": "Maxime Poulin <mpoulin@roux.ca>",
   "scripts": {
     "test": "node ./test/run.js",
   },
@@ -43,5 +40,8 @@
     "mkdirp": "^0.5.1",
     "rimraf": "^2.4.3",
     "tap": "^2.0.0",
+  },
+  "directories": {
+    "test": "test",
   },
 }
