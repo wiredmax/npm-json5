@@ -1,6 +1,6 @@
 {
   "name": "npm-json5",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "license" : "MIT",
   "description": "npm wrapper allowing to use JSON5 instead of standard package.json",
   "author": "Maxime Poulin <mpoulin@roux.ca>",
