@@ -1,5 +1,10 @@
 # Versions
 
+## v0.1.3 - (2016/03/21)
+
+* Upgraded to Babel6.
+
+
 ## v0.1.2 - (2015/11/03)
 
 * Added README.
