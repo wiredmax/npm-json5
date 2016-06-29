@@ -1,5 +1,11 @@
 # Versions
 
+## v0.1.4 - (2016/06/28)
+
+* Added `child_process.execFile`.
+* Removed Babel.
+
+
 ## v0.1.3 - (2016/03/21)
 
 * Upgraded to Babel6.
