@@ -12,8 +12,9 @@ See the [change log](https://github.com/wiredmax/npm-json5/blob/master/CHANGELOG
 ## Sources & Inspiration
 YAPM branch [good-old-wrapper](https://github.com/rlidwka/yapm/tree/good-old-wrapper/) by Alex Kocharin
 
-## Author
-Maxime Poulin <mpoulin@roux.ca>
+## Authors
+- [Maxime Poulin](https://github.com/wiredmax) - <mpoulin@roux.ca>
+- [Mathieu M-Gosselin](https://github.com/mathieumg) - <mathieumg@gmail.com>
 
 ## License
 MIT (See [LICENSE](https://github.com/wiredmax/npm-json5/blob/master/LICENSE))
