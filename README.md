@@ -6,6 +6,8 @@ npm wrapper allowing to use JSON5 instead of standard package.json
 [![devDependency Status][dev-deps-badge]][dev-deps]
 [![peerDependency Status][peer-deps-badge]][peer-deps]
 
+NOTE: currently this does not support npm 4 or 5, and will excecute with npm 3 internally.
+
 ## Change log
 See the [change log](https://github.com/wiredmax/npm-json5/blob/master/CHANGELOG.md).
 

@@ -1,3 +1,3 @@
 #!/usr/bin/env node
 require("./lib")
-require("npm/cli")
+require("./node_modules/npm/cli")
