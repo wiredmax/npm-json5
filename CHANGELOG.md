@@ -1,5 +1,10 @@
 # Versions
 
+## v0.1.5 - (2017/06/26)
+
+* Enforce npm 3.x only for now.
+
+
 ## v0.1.4 - (2016/06/28)
 
 * Added `child_process.execFile`.
